@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/media/f1432ba232104b6d4d4ca2123b944c74.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AdityRajGupta" /> </p>
 🔭 I’m currently working on Blockchain and ML Technologies<br>👯 I’m looking to collaborate on Hackathon Projects<br>🤝 I’m looking for help with Open Source <br>🌱 I’m currently learning Python and Java<br>⚡ The Daughter of a Mad Poet was the First Programmer.<br>
 
